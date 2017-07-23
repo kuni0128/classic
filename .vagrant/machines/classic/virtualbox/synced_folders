@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/classic":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/classic","hostpath":"/Users/ishikawakuniaki/Documents/workspace/app/classic","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ishikawakuniaki/Documents/workspace/app/classic","disabled":false,"__vagrantfile":true}}}
