@@ -15,3 +15,8 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
+/web/fontawesome/
+/web/img/
+/web/jquery/
+/web/bootstrap/
+/web/robots.txt
